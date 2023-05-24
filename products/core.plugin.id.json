@@ -1,1 +1,10 @@
-f
+{
+  "Status":"OK",
+  "Runtime-Mode":"productionMode",
+  "Application-Author":"Zimoxy Group",
+  "Application-Description":"Zimoxy Minecraft - ZimoxyID Plugin",
+  "Specification-Version":"1.0.0",
+  "Application-Name":"www.zimoxy.org.id",
+  "Implementation-Version":"1.0.0",
+  "Application-Owner":"Zimoxy Group"
+}
