@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <svg version="1.2" baseProfile="tiny-ps" id="zimoxy-bimi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
 	<title>Zimoxy, Inc.</title>
-	<linearGradient id="zimoxy_blue_gradient" x1="104.222" y1="-1.63711" x2="87.9459" y2="24.7477">
+	<linearGradient id="zimoxy_blue_gradient" x1="161.222" y1="204.363" x2="144.946" y2="230.748">
     		<stop stop-color="#3366FF"/>
    		<stop offset="1" stop-color="#7194FF"/>
 	</linearGradient>
