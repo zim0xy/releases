@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.2" baseProfile="tiny-ps" id="zimoxy-bimi"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512"
-	 overflow="visible">
-	<title>Zimoxy, Inc.</title>
+<svg version="1.2" baseProfile="tiny-ps" id="zimoxy-bimi" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 512 512">
+<title>Zimoxy, Inc.</title>
 <rect fill="#121212" width="512" height="512"/>
 <path fill="#FFFFFF" d="M123.3,269.2l-3,17.6H57l2.4-14.4l38.5-37.4H66.8l2.9-17.6h61.5l-2.4,14.4l-38.3,37.3H123.3z"/>
 <path fill="#FFFFFF" d="M259.7,254.6l-6.4,32.2h-22.2l5.7-28.8l0.2-2.1c0-3.6-1.7-5.4-5-5.4c-4,0-7.1,2.9-9.1,8.6l-5.5,27.7h-22.2
